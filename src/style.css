@@ -1,0 +1,13 @@
+/* Denis Kontek 3h */
+.kwadrat {
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    position: absolute;
+}
+#game {
+    height: 1024px;
+    width: 1024px;
+    background-color: gray;
+    position: relative;
+}
